@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+*_settings.json
+*log.txt
+chall_cert.*

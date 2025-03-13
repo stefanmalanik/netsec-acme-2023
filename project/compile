@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Compile your project here"
+
+python -m pip install --upgrade pip
+
+pip install requests
+pip install Flask
+pip install dnslib
+pip install -Iv cryptography==41.0.3
